@@ -1,2 +1,3 @@
 Hello Git!
 This is my second commit.
+Update from feature-1 branch.
